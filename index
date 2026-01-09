@@ -25,8 +25,8 @@
         <h2>Vítej u Smarty!</h2>
         <p>Profesionální služby pro servery a čistý hosting. Pomůžeme ti postavit tvůj vysněný Minecraft server nebo Discord komunitu.</p>
         <div class="btn-container">
-            <a href="smartydev.html" class="btn-primary">🚀 Naše Služby</a>
-            <a href="support.html" class="btn-secondary">💬 Kontaktuj Nás</a>
+            <a href="bohusluzby.html" class="btn-primary">🚀 Naše Služby</a>
+            <a href="bohupodpora.html" class="btn-secondary">💬 Kontaktuj Nás</a>
         </div>
     </div>
 </section>
